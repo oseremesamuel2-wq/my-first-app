@@ -24,7 +24,7 @@ How to Run Locally
 
 1. Clone the repository:
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/oseremesamuel2-wq/my-first-app.git
 
 2. Enter the project folder:
 
